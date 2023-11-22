@@ -1,3 +1,7 @@
+# this is the early stages of my gui work, hoping to get more done soon. 
+
+
+
 import tkinter as tk
 from PIL import Image, ImageTk
 
