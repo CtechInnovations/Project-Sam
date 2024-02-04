@@ -9,7 +9,7 @@ class MapGUI:
     def __init__(self, root):
         self.root = root
         self.root.title("Fake Live GPS Map Viewer")
-        self.root.geometry("800x800")
+        self.root.geometry("1080x720")
 
         # Placeholder for GPS data (latitude, longitude)
         self.gps_data = (0.0, 0.0)
